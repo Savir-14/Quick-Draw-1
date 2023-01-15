@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#score {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch_drawn {
+    color: red;
+}
+
+#your_sketch, #confidence, #sketch_drawn {
+    font-size: 20px;
+}
